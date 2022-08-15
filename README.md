@@ -36,7 +36,7 @@ SKT FLYAI mini project (Android app service for neural style transfer)
 
 
 
-### 4. Contribution
+## 4. Contribution
 
 - [`서상완`](https://github.com/sangwan2016) &nbsp; • Modeling • Model Optimization • FineTunning • Pytorch 
 - [`우혁준`](https://github.com/huGhW) &nbsp; • Front-end • Android • Front-end & Back-end Update
