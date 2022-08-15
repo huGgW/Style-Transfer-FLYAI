@@ -30,6 +30,11 @@ SKT FLYAI mini project (Android app service for neural style transfer)
   <tr>
 </table>
 
+## Model
+<img alt="" src="https://user-images.githubusercontent.com/61751079/184568350-21c7f219-2cb3-4e83-aa72-ba9fbd5518ca.png" width = "800" height = "500" />
+<img alt="" src="https://user-images.githubusercontent.com/61751079/184568348-c1456810-43bd-431a-ad07-448ab03693e5.png" width = "800" height = "500" />
+
+
 
 ### Contribution
 
@@ -39,3 +44,4 @@ SKT FLYAI mini project (Android app service for neural style transfer)
 
 ## Reference
 - [Notion](https://www.notion.so/sangwan2016/Style-Transfer-4e1f119157954fb582cdac61f74b5439)
+- [Gatys_Image_Style_Transfer_CVPR_2016_paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
